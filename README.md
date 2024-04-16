@@ -27,9 +27,9 @@ https://dnschecker.org/
 
 ## COPIAR A PASTA PARA ROOT E RODAR OS COMANDOS ABAIXO ##
 
-sudo chmod +x ./whaticket_shell_saas/whaticketsaas
-cd ./whaticket_shell_saas
-sudo ./whaticketsaas
+sudo chmod +x ./SIWUMS/zapmais
+cd ./SIWUMS/install-zdg
+sudo ./SIWUMS/zapmais
 
 ===================================================
 
